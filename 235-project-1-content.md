@@ -38,6 +38,10 @@ which will be the only hint that they get to move and control the game with the 
 Other than that, they will be entirely on their own after the opening flavor text informs 
 them of what they need to do.
 
+## VII Screenshots
+![falling down a pit](https://github.com/cvd5161/Chris-Donos-235-Repo/blob/master/Screenshot1.png)
+![Getting the horn](https://github.com/cvd5161/Chris-Donos-235-Repo/blob/master/Screenshot2.png)
+
 ## About the developer
 My name is Christopher Dono. I am a Game Design and Development student graduating from RIT in 2022, and I enjoy programming in C#, HTML, CSS and have a 
 small interest in drawing.
